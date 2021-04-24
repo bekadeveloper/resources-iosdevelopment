@@ -1,4 +1,4 @@
-# Resources for learning iOS development
+# 📚 Resources for learning iOS development📚
 
 - [**The Swift Programming Language**](https://books.apple.com/us/book/the-swift-programming-language-swift-5-3/id881256329) book.
   ###### Author: Apple Inc.
