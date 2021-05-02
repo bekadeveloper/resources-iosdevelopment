@@ -20,3 +20,6 @@
   
 - [**WWDC Session Videos**](https://developer.apple.com/videos/)
   ###### Author: Apple Inc.
+
+- [**Data Structures & Algorithms in Swift**](https://www.amazon.com/Data-Structures-Algorithms-Swift-Third/dp/1942878990/ref=sr_1_2?dchild=1&keywords=data+structures+and+algorithms+in+swift&qid=1619959463&s=books&sr=1-2)
+  ###### Author: raywenderlich Tutorial Team.
